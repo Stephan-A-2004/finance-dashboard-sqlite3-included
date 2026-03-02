@@ -1,0 +1,4 @@
+## Quick requirements.txt
+
+yfinance>=0.2.65
+pandas>=2.3.1
